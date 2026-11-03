@@ -1,128 +1,178 @@
-# Sabr Studio — Architectural Portfolio & E-Commerce Atelier
+<div align="center">
 
-[![Production Status](https://img.shields.io/badge/Production-Live-059669?style=for-the-badge&logo=vercel&logoColor=white)](https://sabrstudio.in/)
-[![Node Version](https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![React Version](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Express Version](https://img.shields.io/badge/Express-4.21.0-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-8.6.2-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/atlas)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.11-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Razorpay](https://img.shields.io/badge/Razorpay-Integrated-0C2340?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.com/)
-[![Cloudinary](https://img.shields.io/badge/Cloudinary-Media_Engine-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+# 🏛️ SABR STUDIO
+### *Architectural Design Portfolio & Bespoke E-Commerce Atelier*
 
-> **A high-end, editorial full-stack web application designed for a luxury architectural design studio and bespoke furniture atelier.** Built from the ground up to unite an editorial design portfolio, an interactive dynamic content management system (CMS), an e-commerce catalogue, and an administrative fulfillment engine.
+<p align="center">
+  <strong>A high-end, editorial full-stack web application designed for a luxury architectural practice and handcrafted furniture atelier.</strong><br>
+  Built from first principles to unite an editorial design showcase, a dynamic visual content management system (CMS), an e-commerce catalogue, and an administrative operations engine.
+</p>
+
+<p align="center">
+  <a href="https://sabrstudio.in/">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-sabrstudio.in-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website">
+  </a>
+  <a href="https://sabr-studio.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Preview_Deployment-Vercel_Edge-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Preview Deployment">
+  </a>
+  <a href="https://github.com/Abu-Fazal/Sabr-Studio">
+    <img src="https://img.shields.io/badge/📁_Source_Code-GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+</p>
 
 ---
 
-## Live Demo & Repository
+### ⚡ Technology & Architecture Badges
 
-- **Live Production Website:** [https://sabrstudio.in/](https://sabrstudio.in/)
-- **Alternative Preview Domain:** [https://sabr-studio.vercel.app/](https://sabr-studio.vercel.app/)
-- **GitHub Repository:** [https://github.com/Abu-Fazal/Sabr-Studio](https://github.com/Abu-Fazal/Sabr-Studio)
-- **Author & Lead Developer:** [Abu Fazal](https://github.com/Abu-Fazal)
+<!-- Platform & Runtimes -->
+[![Node.js Version](https://img.shields.io/badge/Node.js-%3E%3D20.0.0-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React Version](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Vite Bundler](https://img.shields.io/badge/Vite-5.4.21-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Express Framework](https://img.shields.io/badge/Express-4.21.0-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-8.6.2-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/atlas)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.11-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+<!-- Integrations & Cloud Services -->
+[![Razorpay Payments](https://img.shields.io/badge/Razorpay-Payment_Gateway-0C2340?style=flat-square&logo=razorpay&logoColor=white)](https://razorpay.com/)
+[![Cloudinary CDN](https://img.shields.io/badge/Cloudinary-Media_Pipeline-3448C5?style=flat-square&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+[![Google GIS](https://img.shields.io/badge/Google_Identity-RS256_Auth-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/identity)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.5.4-FF0055?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![Lenis Scroll](https://img.shields.io/badge/Lenis-Smooth_Scroll-000000?style=flat-square&logo=scroll&logoColor=white)](https://github.com/darkroomengineering/lenis)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+</div>
 
 ---
 
-## Screenshots & Interface Tour
+## 🖼️ Screenshots & Real Interface Tour
 
-The visual design of Sabr Studio is rooted in minimalism, editorial typography (`Abhaya Libre` and `Inter`), and deliberate whitespace. Detailed screenshot capture instructions and viewports can be found in the [Screenshot Capture Guide](file:///d:/OneDrive/Desktop/SabrStudio/docs/screenshots/README.md).
+The visual design of Sabr Studio is rooted in minimalism, tactile material palettes, editorial typography (`Abhaya Libre` and `Inter`), and deliberate whitespace. All screenshots below are **genuine captures from the live production site at [https://sabrstudio.in/](https://sabrstudio.in/)**.
 
-| Public Architectural Portfolio | Bespoke Retail Catalogue |
+### 🖥️ Desktop Experience (1440px Viewport)
+
+<div align="center">
+
+| 🏛️ Architectural Landing Page | 📐 Curated Portfolio Showcase |
 |:---:|:---:|
-| ![Public Project Portfolio](docs/screenshots/02-public-projects-listing.png)<br/>*Curated project listing with real-time category filtering* | ![Retail Catalogue](docs/screenshots/04-retail-catalogue.png)<br/>*Atelier furniture collection with stock and price tracking* |
+| <img src="docs/screenshots/homepage-desktop.png" alt="Sabr Studio Homepage" width="480"/><br/><sub><strong>Editorial hero section featuring typography, brand mark, and category navigation</strong></sub> | <img src="docs/screenshots/projects-desktop.png" alt="Sabr Studio Projects" width="480"/><br/><sub><strong>Interactive portfolio showcase with real-time category filtering and case studies</strong></sub> |
 
-| Dynamic Content Canvas (CMS) | Administrative Fulfillment Center |
+| 📖 Deep-Dive Case Study View | 🛋️ Bespoke Furniture Catalogue |
 |:---:|:---:|
-| ![Dynamic Detail Blocks Editor](docs/screenshots/12-dynamic-detail-blocks-editor.png)<br/>*Drag-and-drop 2D block editor with material swatches* | ![Admin Orders Dashboard](docs/screenshots/14-admin-orders-manager.png)<br/>*Order management, status tracking, and shipment logging* |
+| <img src="docs/screenshots/project-details-desktop.png" alt="Sabr Studio Project Detail" width="480"/><br/><sub><strong>Dynamic case study showcasing material swatches, spatial highlights, and photography</strong></sub> | <img src="docs/screenshots/retail-desktop.png" alt="Sabr Studio Retail Catalogue" width="480"/><br/><sub><strong>Atelier furniture & objects catalogue with live stock filtering and pricing in INR</strong></sub> |
 
-> *Note: Place high-resolution captures in `docs/screenshots/` following the naming standard in the [Screenshot Guide](file:///d:/OneDrive/Desktop/SabrStudio/docs/screenshots/README.md).*
+| 🏷️ Product Detail & Specifications | ✍️ Design Services & Capabilities |
+|:---:|:---:|
+| <img src="docs/screenshots/product-details-desktop.png" alt="Sabr Studio Product Detail" width="480"/><br/><sub><strong>Product detail display with dimensional specs, material composition, and add-to-cart</strong></sub> | <img src="docs/screenshots/services-desktop.png" alt="Sabr Studio Services" width="480"/><br/><sub><strong>Studio capabilities overview detailing architectural consulting and interior styling</strong></sub> |
 
----
+| 📖 Studio About & Philosophy | 📩 Consultation Enquiry Portal |
+|:---:|:---:|
+| <img src="docs/screenshots/about-desktop.png" alt="Sabr Studio About" width="480"/><br/><sub><strong>Studio history, architectural ethos, and founder statement</strong></sub> | <img src="docs/screenshots/contact-desktop.png" alt="Sabr Studio Contact" width="480"/><br/><sub><strong>Client consultation enquiry form with rate-limiting and automated email dispatch</strong></sub> |
 
-## Table of Contents
+| 🛒 Persistent Shopping Cart | 💳 Multi-Step Checkout Flow |
+|:---:|:---:|
+| <img src="docs/screenshots/cart-desktop.png" alt="Sabr Studio Cart" width="480"/><br/><sub><strong>Dedicated cart view with localStorage state synchronization and item subtotal calculation</strong></sub> | <img src="docs/screenshots/checkout-desktop.png" alt="Sabr Studio Checkout" width="480"/><br/><sub><strong>Secure multi-step checkout interface with address selection and Razorpay integration</strong></sub> |
 
-- [01. Project Overview](#01-project-overview)
-- [02. Project Background](#02-project-background)
-- [03. Key Highlights](#03-key-highlights)
-- [04. Complete Features](#04-complete-features)
-- [05. Public Website](#05-public-website)
-- [06. Admin Dashboard](#06-admin-dashboard)
-- [07. Role-Based Access Control](#07-role-based-access-control)
-- [08. Authentication System](#08-authentication-system)
-- [09. Project Management CMS](#09-project-management-cms)
-- [10. Dynamic Content Editor](#10-dynamic-content-editor)
-- [11. Media Management](#11-media-management)
-- [12. Retail Management](#12-retail-management)
-- [13. E-commerce System](#13-e-commerce-system)
-- [14. Payment Integration](#14-payment-integration)
-- [15. Order Management](#15-order-management)
-- [16. Customer Management](#16-customer-management)
-- [17. Enquiry Management](#17-enquiry-management)
-- [18. System Architecture](#18-system-architecture)
-- [19. Backend Architecture](#19-backend-architecture)
-- [20. Database Design](#20-database-design)
-- [21. API Documentation](#21-api-documentation)
-- [22. Security](#22-security)
-- [23. Error Handling](#23-error-handling)
-- [24. Testing](#24-testing)
-- [25. Technology Stack](#25-technology-stack)
-- [26. Project Structure](#26-project-structure)
-- [27. Installation](#27-installation)
-- [28. Environment Variables](#28-environment-variables)
-- [29. Available Scripts](#29-available-scripts)
-- [30. Local Development](#30-local-development)
-- [31. Production Deployment](#31-production-deployment)
-- [32. Performance Optimization](#32-performance-optimization)
-- [33. Challenges & Solutions](#33-challenges--solutions)
-- [34. Freelance Project Experience](#34-freelance-project-experience)
-- [35. Future Improvements](#35-future-improvements)
-- [36. Author & Credits](#36-author--credits)
-- [37. License](#37-license)
+</div>
+
+### 📱 Mobile Responsive Experience (390px Viewport)
+
+<div align="center">
+
+| 📱 Mobile Home | 📱 Portfolio Feed | 📱 Mobile Retail | 🔐 Shopper Sign-In |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/screenshots/homepage-mobile.png" alt="Sabr Studio Mobile Home" width="220"/><br/><sub><strong>Full-bleed hero imagery</strong></sub> | <img src="docs/screenshots/projects-mobile.png" alt="Sabr Studio Mobile Projects" width="220"/><br/><sub><strong>Mobile portfolio feed</strong></sub> | <img src="docs/screenshots/retail-mobile.png" alt="Sabr Studio Mobile Retail" width="220"/><br/><sub><strong>Touch-friendly retail grid</strong></sub> | <img src="docs/screenshots/login-desktop.png" alt="Customer Authentication" width="220"/><br/><sub><strong>Google 1-click login</strong></sub> |
+
+</div>
+
+> [!NOTE]
+> Detailed capture specifications and resolution parameters are documented in the [Screenshot Capture Guide](file:///d:/OneDrive/Desktop/SabrStudio/docs/screenshots/README.md). In accordance with production security policies, authenticated administrative screens are excluded as credentials are not stored in the repository.
 
 ---
 
-## 01. Project Overview
+## 📑 Table of Contents
 
-Sabr Studio is a custom-crafted web platform created for a multidisciplinary architecture and bespoke furniture design studio. Unlike off-the-shelf templates or generic website builders that enforce rigid layouts, Sabr Studio combines:
-1. **An Editorial Architectural Showcase:** Presenting completed residential, commercial, and hospitality projects with dynamic material palettes, spatial specifications, and narrative content.
+<div align="center">
+
+| Category | Primary Sections |
+|---|---|
+| **🏛️ Overview & Strategy** | [01. Project Overview](#01-project-overview) • [02. Project Background](#02-project-background) • [03. Key Highlights](#03-key-highlights) • [04. Complete Features](#04-complete-features) |
+| **🌐 Storefront Experience** | [05. Public Website](#05-public-website) • [12. Retail Management](#12-retail-management) • [13. E-commerce System](#13-e-commerce-system) • [14. Payment Integration](#14-payment-integration) |
+| **🛠️ Administrative Suite** | [06. Admin Dashboard](#06-admin-dashboard) • [09. Project Management CMS](#09-project-management-cms) • [10. Dynamic Content Editor](#10-dynamic-content-editor) • [11. Media Management](#11-media-management) |
+| **🔐 Identity & Access** | [07. Role-Based Access Control](#07-role-based-access-control) • [08. Authentication System](#08-authentication-system) • [16. Customer Management](#16-customer-management) • [17. Enquiry Management](#17-enquiry-management) • [15. Order Management](#15-order-management) |
+| **🏗️ Engineering & APIs** | [18. System Architecture](#18-system-architecture) • [19. Backend Architecture](#19-backend-architecture) • [20. Database Design](#20-database-design) • [21. API Documentation](#21-api-documentation) |
+| **🛡️ Resilience & Testing** | [22. Security Architecture](#22-security) • [23. Error Handling](#23-error-handling) • [24. Automated Testing](#24-testing) • [32. Performance Optimization](#32-performance-optimization) |
+| **🚀 DevOps & Operations** | [25. Technology Stack](#25-technology-stack) • [26. Project Structure](#26-project-structure) • [27. Installation](#27-installation) • [28. Environment Variables](#28-environment-variables) • [29. Available Scripts](#29-available-scripts) • [30. Local Development](#30-local-development) • [31. Production Deployment](#31-production-deployment) |
+| **💼 Case Study & Meta** | [33. Challenges & Solutions](#33-challenges--solutions) • [34. Freelance Experience](#34-freelance-project-experience) • [35. Future Improvements](#35-future-improvements) • [36. Author & Credits](#36-author--credits) • [37. License](#37-license) |
+
+</div>
+
+---
+
+<a name="01-project-overview"></a>
+## 01. 🚀 Project Overview
+
+**Sabr Studio** is a custom-engineered full-stack platform built for a multidisciplinary architecture studio and bespoke furniture atelier. Unlike off-the-shelf templates or generic site builders that enforce rigid layouts, Sabr Studio combines:
+
+1. **An Editorial Architectural Showcase:** Presenting completed residential, commercial, and hospitality projects with dynamic material palettes, spatial specifications, and narrative case studies.
 2. **A Custom Dynamic Content Editor (CMS):** A purpose-built, block-based visual canvas allowing administrators to construct bespoke project case studies with 2D column placement, custom typography scales, and material swatches.
-3. **An Atelier Furniture Catalogue:** An e-commerce system featuring inventory reservation, server-side price validation, and multi-item ordering.
+3. **An Atelier Furniture Catalogue:** An e-commerce system featuring real-time inventory reservation, server-side price validation, and multi-item ordering.
 4. **An Administrative Operations Engine:** A central hub for managing client enquiries, updating catalogue stock levels, fulfilling orders, and auditing studio analytics.
 
-The application serves two distinct user personas:
-- **Design Connoisseurs & Retail Shoppers:** Browse architectural case studies, examine furniture materials, save items to a persistent cart, and purchase via Razorpay using Google authentication.
-- **Studio Administrators:** Curate portfolio projects, upload media assets to Cloudinary, track client consultation enquiries, monitor revenue, and manage order deliveries.
+### Target User Personas
+
+```
+┌──────────────────────────────────────────────┐    ┌──────────────────────────────────────────────┐
+│       Design Connoisseurs & Shoppers         │    │             Studio Administrators            │
+├──────────────────────────────────────────────┤    ├──────────────────────────────────────────────┤
+│ • Browse architectural case studies          │    │ • Curate portfolio & publish case studies    │
+│ • Inspect tactile materials & palettes       │    │ • Visual 2D block composition & styling      │
+│ • Curate carts with localStorage sync        │    │ • Direct Cloudinary media pipeline           │
+│ • Google 1-click checkout with Razorpay      │    │ • Live stock counters & price controls       │
+│ • Self-service address book & order tracking │    │ • Client enquiry triage & order fulfillment  │
+└──────────────────────────────────────────────┘    └──────────────────────────────────────────────┘
+```
 
 ---
 
-## 02. Project Background
+<a name="02-project-background"></a>
+## 02. 📖 Project Background
 
 Sabr Studio represents my first major full-stack freelance engineering engagement. The client—an emerging boutique architecture and interior design practice—required a digital presence that matched the tactile sophistication and minimalist craftsmanship of their physical work.
 
-Traditional platforms posed two major issues:
-- **Standard CMS platforms (WordPress/Squarespace):** Suffered from bloated bundle sizes, rigid templating limitations, and slow performance on mobile devices.
+### The Architectural Dilemma
+- **Standard CMS platforms (WordPress/Squarespace):** Suffered from bloated bundle sizes, rigid templating limitations, and sluggish performance on mobile devices.
 - **SaaS E-commerce (Shopify):** Did not natively accommodate custom architectural case studies with dynamic material palettes and spatial highlights while maintaining an editorial brand aesthetic.
 
-I engineered a tailor-made monorepo application using React 18, Node.js/Express, and MongoDB Atlas. I designed the architecture to support dual production deployment modes: deploying as serverless lambdas on Vercel while remaining completely compatible with long-lived managed Node.js runtimes like Hostinger.
+### The Custom Engineering Response
+I engineered a tailor-made monorepo application using **React 18**, **Node.js/Express**, and **MongoDB Atlas**. I designed the architecture to support dual production deployment modes: deploying as serverless lambdas on **Vercel** while remaining completely compatible with long-lived managed Node.js runtimes like **Hostinger**.
 
 ---
 
-## 03. Key Highlights
+<a name="03-key-highlights"></a>
+## 03. ✨ Key Highlights
 
-- **Dual-Track Authentication Boundary:** Strict separation of identities. Store shoppers authenticate seamlessly via Google Identity Services (RS256 token verification against Google's public JWKS), while administrators authenticate through an isolated bcrypt-hashed credential portal with HTTP-only cookies.
-- **Dynamic Detail Blocks CMS:** An editorial visual editor supporting five block types (`palette`, `keywords`, `lists`, `sections`, `imageBlocks`), 2D canvas column placement (`place.rowId`, `place.col`), and sanitized layout tokens.
-- **Zero-Disk Media Engine:** Multer configured exclusively with `memoryStorage()`, streaming buffers straight to Cloudinary. Defends against file-extension spoofing using deep magic-byte inspection (checking raw JPEG, PNG, WebP, and AVIF headers).
-- **Hardened E-Commerce Lifecycle:** Zero trust in client-side prices. All totals, item availability, and stock reservations are computed server-side before generating Razorpay orders.
-- **Cryptographic Signature Verification:** Razorpay payments are validated synchronously using `crypto.timingSafeEqual()` over HMAC-SHA256 digests, paired with an asynchronous raw-body webhook listener.
-- **Database Fail-Safe Guard:** In production, the backend refuses to execute against fallback data or default databases like `test`. If MongoDB Atlas is unreachable, the system fails closed with a sanitized `503 Service Unavailable (DB_UNAVAILABLE)`.
-- **Zero-Layout-Shift Performance:** Smooth inertial scrolling powered by Lenis, font preloading, and route-level lazy loading with animated skeleton fallbacks.
+<div align="center">
+
+| Feature Highlight | Implementation Detail | Technical Benefit |
+|---|---|---|
+| **Dual-Track Authentication** | Admin bcrypt JWT + Customer Google Identity Services | Complete isolation; zero credential leakage between roles |
+| **Dynamic DetailBlocks CMS** | 2D placement engine (`place.rowId`, `place.col`) | Bespoke multi-column responsive editorial layouts without code |
+| **Zero-Disk Media Pipeline** | `multer.memoryStorage()` + Magic Byte Sniffing | 100% serverless read-only compatibility & anti-spoofing defense |
+| **Zero-Trust E-Commerce** | Server-side price authority + Atomic stock locks | Prevents client-side price tampering and race condition overselling |
+| **Cryptographic Verification** | Synchronous HMAC-SHA256 (`timingSafeEqual`) + Webhooks | Eliminates payment fraud, man-in-the-middle attacks, and replay risks |
+| **Production DB Fail-Safe** | Health check interceptor returning `503 DB_UNAVAILABLE` | Prevents serving corrupted or fake in-memory fixtures in production |
+| **Silky 60fps Experience** | Lenis smooth scroll + Font preloading + Code splitting | Zero Layout Shift (CLS) and instant route transitions |
+
+</div>
 
 ---
 
-## 04. Complete Features
+<a name="04-complete-features"></a>
+## 04. 🎯 Complete Features
 
 ```
 Sabr Studio Feature Matrix
-├── Public Experience
+├── 🌐 Public Storefront & Portfolio
 │   ├── Editorial Landing Page (Hero carousel, design philosophy, process steps, FAQ)
 │   ├── Architectural Portfolio (Category filters: Residential, Commercial, Hospitality)
 │   ├── Case Study View (Dynamic 2D blocks, material swatches, high-res photography)
@@ -133,7 +183,7 @@ Sabr Studio Feature Matrix
 │   ├── Customer Portal (Order history, tracking IDs, profile management)
 │   └── Inbound Consultation Enquiry Form (Rate-limited, EmailJS alerts)
 │
-└── Administrative Command Center
+└── 🛠️ Administrative Command Center
     ├── Key Metric Dashboards (Total revenue, order counts, lead conversion)
     ├── Project CMS (Create, edit, reorder, publish/unpublish, delete)
     ├── Dynamic DetailBlocks Canvas (Place row/col slots, configure design tokens)
@@ -145,17 +195,19 @@ Sabr Studio Feature Matrix
 
 ---
 
-## 05. Public Website
+<a name="05-public-website"></a>
+## 05. 🌐 Public Website
 
-The public interface is designed with an editorial aesthetic, utilizing generous whitespace and deliberate typographic contrast.
+The public interface is designed with an editorial aesthetic, utilizing generous whitespace and deliberate typographic contrast between `Abhaya Libre` (serif) and `Inter` (sans-serif).
 
-### Key Pages & Implementation
+### Public Routes & Page Architecture
+
 1. **Home (`/`):**
    - Features an animated hero slider (`HeroSlider.jsx`) showcasing featured works.
    - Includes studio statistics, design philosophy highlights, interactive FAQ accordions (`FaqAccordionItem.jsx`), and client testimonials.
 2. **Projects Listing (`/projects`):**
    - Fetches live published works via `GET /api/projects`.
-   - Offers real-time category filtering (Residential, Commercial, Hospitality) without full page reloads.
+   - Offers real-time category filtering (**Residential**, **Commercial**, **Hospitality**) without full page reloads.
 3. **Project Detail (`/projects/:slug`):**
    - Renders deep-dive case studies dynamically using `DetailBlockContent.jsx`.
    - Reconstructs 2D multi-column rows using `groupBlocksIntoRows()` to faithfully reflect the admin builder's canvas.
@@ -168,7 +220,8 @@ The public interface is designed with an editorial aesthetic, utilizing generous
 
 ---
 
-## 06. Admin Dashboard
+<a name="06-admin-dashboard"></a>
+## 06. 🛠️ Admin Dashboard
 
 The administrative dashboard (`/admin`) is an integrated management environment protected by `ProtectedRoute.jsx`.
 
@@ -181,7 +234,7 @@ graph LR
     Dashboard --> EnquiriesTab["/admin/enquiries<br/>(Leads & Status)"]
 ```
 
-### Dashboard Capabilities
+### Dashboard Operational Capabilities
 - **Overview Analytics:** Real-time calculation of total studio revenue, confirmed order volume, active catalogue listings, and unhandled client leads (`GET /api/admin/stats`).
 - **Project CMS:** Visual management of portfolio projects with one-click publish/unpublish toggles.
 - **Inventory Controller:** Direct modification of product pricing, availability toggles, and physical stock counts.
@@ -190,7 +243,8 @@ graph LR
 
 ---
 
-## 07. Role-Based Access Control
+<a name="07-role-based-access-control"></a>
+## 07. 👥 Role-Based Access Control
 
 Sabr Studio strictly isolates administrative permissions from customer shopping accounts. The application does not mix permissions on a single user table.
 
@@ -205,7 +259,8 @@ Sabr Studio strictly isolates administrative permissions from customer shopping 
 
 ---
 
-## 08. Authentication System
+<a name="08-authentication-system"></a>
+## 08. 🔐 Authentication System
 
 The application features two independent authentication engines operating in parallel:
 
@@ -236,7 +291,8 @@ flowchart TD
 
 ---
 
-## 09. Project Management CMS
+<a name="09-project-management-cms"></a>
+## 09. 📁 Project Management CMS
 
 The portfolio CMS manages architectural case studies through structured MongoDB documents.
 
@@ -248,7 +304,8 @@ The portfolio CMS manages architectural case studies through structured MongoDB 
 
 ---
 
-## 10. Dynamic Content Editor
+<a name="10-dynamic-content-editor"></a>
+## 10. 🎨 Dynamic Content Editor
 
 The dynamic content builder (`DetailBlocksEditor.jsx`) gives administrators complete editorial freedom over project presentation without writing code.
 
@@ -283,7 +340,8 @@ graph TD
 
 ---
 
-## 11. Media Management
+<a name="11-media-management"></a>
+## 11. ☁️ Media Management
 
 Media uploads are handled through a zero-disk, memory-buffered pipeline integrating Multer and Cloudinary.
 
@@ -312,7 +370,8 @@ sequenceDiagram
 
 ---
 
-## 12. Retail Management
+<a name="12-retail-management"></a>
+## 12. 🛋️ Retail Management
 
 The atelier retail module manages handcrafted furniture, lighting, and decorative objects.
 
@@ -323,7 +382,8 @@ The atelier retail module manages handcrafted furniture, lighting, and decorativ
 
 ---
 
-## 13. E-commerce System
+<a name="13-ecommerce-system"></a>
+## 13. 🛒 E-commerce System
 
 The e-commerce subsystem handles the entire journey from browsing to cart management and address selection.
 
@@ -334,7 +394,8 @@ The e-commerce subsystem handles the entire journey from browsing to cart manage
 
 ---
 
-## 14. Payment Integration
+<a name="14-payment-integration"></a>
+## 14. 💳 Payment Integration
 
 Sabr Studio integrates with Razorpay, enforcing strict server-side calculation and cryptographic signature verification.
 
@@ -356,8 +417,11 @@ sequenceDiagram
     Server-->>Shopper: 200 OK (Payment Verified)
 ```
 
-### Signature Verification Algorithm
+<details>
+<summary><strong>View Server-Side Signature Verification Logic</strong></summary>
+
 ```javascript
+// Timing-safe cryptographic HMAC-SHA256 verification (order.service.js)
 const bodyStr = `${razorpayOrderId}|${razorpayPaymentId}`;
 const expected = crypto.createHmac('sha256', process.env.RAZORPAY_KEY_SECRET)
   .update(bodyStr)
@@ -367,10 +431,12 @@ const a = Buffer.from(expected);
 const b = Buffer.from(String(razorpaySignature));
 const isValid = a.length === b.length && crypto.timingSafeEqual(a, b);
 ```
+</details>
 
 ---
 
-## 15. Order Management
+<a name="15-order-management"></a>
+## 15. 📦 Order Management
 
 Orders transition through a defined lifecycle, capturing complete item snapshots at the moment of checkout.
 
@@ -392,7 +458,8 @@ To protect financial and historical accuracy, orders do not rely on live joins w
 
 ---
 
-## 16. Customer Management
+<a name="16-customer-management"></a>
+## 16. 👤 Customer Management
 
 Customer profiles and address books are securely managed through dedicated customer endpoints.
 
@@ -402,7 +469,8 @@ Customer profiles and address books are securely managed through dedicated custo
 
 ---
 
-## 17. Enquiry Management
+<a name="17-enquiry-management"></a>
+## 17. 📩 Enquiry Management
 
 Inbound client consultations and architectural project inquiries are handled through the `/contact` form and managed in the admin dashboard.
 
@@ -412,7 +480,8 @@ Inbound client consultations and architectural project inquiries are handled thr
 
 ---
 
-## 18. System Architecture
+<a name="18-system-architecture"></a>
+## 18. 🏗️ System Architecture
 
 The high-level architecture diagram illustrates the end-to-end integration across client browsers, edge networks, compute layers, and persistent storage.
 
@@ -460,7 +529,8 @@ graph TD
 
 ---
 
-## 19. Backend Architecture
+<a name="19-backend-architecture"></a>
+## 19. ⚙️ Backend Architecture
 
 The backend implements a clean layered design separating HTTP concerns from business logic and data access.
 
@@ -492,7 +562,8 @@ MongoDB Atlas
 
 ---
 
-## 20. Database Design
+<a name="20-database-design"></a>
+## 20. 🗄️ Database Design
 
 ### Entity Relationship Diagram
 
@@ -593,62 +664,82 @@ erDiagram
 
 ---
 
-## 21. API Documentation
+<a name="21-api-documentation"></a>
+## 21. 🔌 API Documentation
 
 All API endpoints reside under the `/api` prefix and return standard JSON envelopes:
 `{ "success": boolean, "data"?: any, "message"?: string, "errors"?: Array }`.
 
 ### Module Endpoints Summary
 
-#### Public APIs (No Authentication Required)
-- `GET /health`: Operational health check reporting database connection status.
-- `GET /api/config/public`: Returns public Google Client ID for frontend button initialization.
-- `GET /api/projects`: List published architectural projects.
-- `GET /api/projects/categories`: List project categories.
-- `GET /api/projects/:slug`: Get published project details by slug.
-- `GET /api/retail`: List published retail catalogue items.
-- `GET /api/retail/:slug`: Get retail product details by slug.
-- `POST /api/enquiries`: Submit a prospective client consultation enquiry.
+<details open>
+<summary><strong>Public APIs (No Authentication Required)</strong></summary>
 
-#### Customer APIs (Cookie: `sabr_customer` Required)
-- `POST /api/customer/google`: Exchange Google ID token for customer session cookie.
-- `GET /api/customer/me`: Return authenticated customer profile.
-- `POST /api/customer/logout`: Clear customer session cookie.
-- `PUT /api/customer/profile`: Update customer name and phone.
-- `DELETE /api/customer/account`: Anonymize PII and soft-delete customer account.
-- `GET /api/customer/addresses`: List saved delivery addresses.
-- `POST /api/customer/addresses`: Create new delivery address.
-- `PATCH /api/customer/addresses/:id/default`: Set default delivery address.
-- `DELETE /api/customer/addresses/:id`: Remove delivery address.
-- `POST /api/orders/checkout`: Initiate checkout session and create Razorpay order.
-- `POST /api/orders/verify`: Verify Razorpay payment signature.
-- `GET /api/orders/my`: Retrieve customer's past orders.
-- `GET /api/orders/my/:id`: Retrieve individual order details.
+| Method | Endpoint | Purpose | Access |
+|---|---|---|:---:|
+| `GET` | `/health` | Health check & database connection probe | Public |
+| `GET` | `/api/config/public` | Public Google Client ID for GIS button | Public |
+| `GET` | `/api/projects` | List published architectural projects | Public |
+| `GET` | `/api/projects/categories` | List project categories | Public |
+| `GET` | `/api/projects/:slug` | Get published project details by slug | Public |
+| `GET` | `/api/retail` | List published retail catalogue items | Public |
+| `GET` | `/api/retail/:slug` | Get retail product details by slug | Public |
+| `POST` | `/api/enquiries` | Submit client consultation enquiry | Public (Rate Limited) |
 
-#### Administrative APIs (Cookie: `token` Required)
-- `POST /api/auth/login`: Authenticate admin via email and password.
-- `GET /api/auth/me`: Validate admin session.
-- `POST /api/auth/logout`: Invalidate admin session cookie.
-- `GET /api/admin/stats`: Get dashboard analytics overview.
-- `GET /api/admin/projects`: List all projects (drafts and published).
-- `POST /api/admin/projects`: Create a new project.
-- `PUT /api/admin/projects/:id`: Update an existing project.
-- `DELETE /api/admin/projects/:id`: Delete a project and clean up media.
-- `GET /api/admin/retail`: List all catalogue products.
-- `POST /api/admin/retail`: Create a new catalogue product.
-- `PUT /api/admin/retail/:id`: Update product specifications or stock.
-- `DELETE /api/admin/retail/:id`: Delete a product.
-- `GET /api/admin/enquiries`: List client inquiries.
-- `PATCH /api/admin/enquiries/:id/status`: Update inquiry status (`new`, `contacted`, `pending`).
-- `DELETE /api/admin/enquiries/:id`: Delete an enquiry.
-- `GET /api/admin/orders`: List all orders across all customers.
-- `PATCH /api/admin/orders/:id/status`: Update order fulfillment status.
-- `PATCH /api/admin/orders/:id/tracking`: Update courier tracking ID.
-- `POST /api/admin/uploads`: Multipart image upload to Cloudinary.
+</details>
+
+<details>
+<summary><strong>Customer APIs (Cookie: `sabr_customer` Required)</strong></summary>
+
+| Method | Endpoint | Purpose | Access |
+|---|---|---|:---:|
+| `POST` | `/api/customer/google` | Exchange Google ID token for session cookie | Public (GIS) |
+| `GET` | `/api/customer/me` | Return authenticated customer profile | Customer |
+| `POST` | `/api/customer/logout` | Clear customer session cookie | Customer |
+| `PUT` | `/api/customer/profile` | Update customer profile (name, phone) | Customer |
+| `DELETE` | `/api/customer/account` | Anonymize PII & soft-delete account | Customer |
+| `GET` | `/api/customer/addresses` | List saved delivery addresses | Customer |
+| `POST` | `/api/customer/addresses` | Create new delivery address | Customer |
+| `PATCH` | `/api/customer/addresses/:id/default` | Set default delivery address | Customer |
+| `DELETE` | `/api/customer/addresses/:id` | Remove delivery address | Customer |
+| `POST` | `/api/orders/checkout` | Create order & initiate Razorpay session | Customer |
+| `POST` | `/api/orders/verify` | Verify Razorpay payment signature | Customer |
+| `GET` | `/api/orders/my` | Retrieve customer's past orders | Customer |
+| `GET` | `/api/orders/my/:id` | Retrieve single order details | Customer |
+
+</details>
+
+<details>
+<summary><strong>Administrative APIs (Cookie: `token` Required)</strong></summary>
+
+| Method | Endpoint | Purpose | Access |
+|---|---|---|:---:|
+| `POST` | `/api/auth/login` | Authenticate admin via credentials | Public (Rate Limited) |
+| `GET` | `/api/auth/me` | Validate admin session | Admin |
+| `POST` | `/api/auth/logout` | Invalidate admin session cookie | Admin |
+| `GET` | `/api/admin/stats` | Dashboard metrics & revenue | Admin |
+| `GET` | `/api/admin/projects` | List all projects (drafts & published) | Admin |
+| `POST` | `/api/admin/projects` | Create a new project | Admin |
+| `PUT` | `/api/admin/projects/:id` | Update project specifications/blocks | Admin |
+| `DELETE` | `/api/admin/projects/:id` | Delete project and Cloudinary media | Admin |
+| `GET` | `/api/admin/retail` | List all catalogue items | Admin |
+| `POST` | `/api/admin/retail` | Create new retail catalogue item | Admin |
+| `PUT` | `/api/admin/retail/:id` | Update product specs/stock | Admin |
+| `DELETE` | `/api/admin/retail/:id` | Delete product and Cloudinary media | Admin |
+| `GET` | `/api/admin/enquiries` | List client consultation inquiries | Admin |
+| `PATCH` | `/api/admin/enquiries/:id/status` | Update inquiry status tag | Admin |
+| `DELETE` | `/api/admin/enquiries/:id` | Delete an enquiry | Admin |
+| `GET` | `/api/admin/orders` | List all orders across all customers | Admin |
+| `PATCH` | `/api/admin/orders/:id/status` | Update order fulfillment status | Admin |
+| `PATCH` | `/api/admin/orders/:id/tracking` | Update courier tracking ID | Admin |
+| `POST` | `/api/admin/uploads` | Stream image buffer to Cloudinary | Admin |
+
+</details>
 
 ---
 
-## 22. Security
+<a name="22-security"></a>
+## 22. 🛡️ Security
 
 The platform enforces defense-in-depth principles across all architectural layers:
 
@@ -665,7 +756,8 @@ The platform enforces defense-in-depth principles across all architectural layer
 
 ---
 
-## 23. Error Handling
+<a name="23-error-handling"></a>
+## 23. 🚨 Error Handling
 
 - **Centralized Error Middleware (`error.middleware.js`):** Intercepts unhandled errors, logs detailed diagnostics via Pino server-side, and returns sanitized, user-friendly JSON responses to clients.
 - **Client Error Boundary (`ErrorBoundary.jsx`):** Wraps the React application to isolate frontend rendering crashes without blank-screening the entire interface.
@@ -673,7 +765,8 @@ The platform enforces defense-in-depth principles across all architectural layer
 
 ---
 
-## 24. Testing
+<a name="24-testing"></a>
+## 24. 🧪 Testing
 
 Automated testing covers critical business workflows and regression points:
 
@@ -686,46 +779,43 @@ Automated testing covers critical business workflows and regression points:
    - End-to-end integration harness exercising public routes, customer flows, admin authentication, checkout, and payment simulation.
 
 ```bash
-# Run unit tests
+# Execute unit tests
 npm --prefix backend run test:unit
 
-# Run route integration suite
+# Execute route integration suite
 npm run test:routes
 ```
 
 ---
 
-## 25. Technology Stack
+<a name="25-technology-stack"></a>
+## 25. 💻 Technology Stack
 
-### Frontend
-- **Framework:** React 18.3.1 (Vite 5.4.21 bundler)
-- **Routing:** React Router DOM 6.26.2
-- **Styling:** Tailwind CSS 3.4.11, PostCSS, Autoprefixer
-- **Motion & Scrolling:** Framer Motion 11.5.4, Lenis 1.1.13
-- **Icons:** React Icons 5.3.0
-- **HTTP Client:** Axios 1.7.7
+<div align="center">
 
-### Backend & Middleware
-- **Runtime:** Node.js (>= 20.0.0, native ESM)
-- **Web Framework:** Express 4.21.0
-- **Database Driver:** Mongoose 8.6.2
-- **Security:** Helmet 7.1.0, CORS 2.8.5, Express Rate Limit 7.4.0
-- **Authentication:** JSONWebToken 9.0.2, bcrypt 6.0.0
-- **File Upload:** Multer 1.4.5-lts.1 (memoryStorage)
-- **Validation:** Express Validator 7.2.0
-- **Compression & Parsing:** Compression 1.7.4, Cookie Parser 1.4.6
-- **Logging:** Pino 9.14.0
+| Tier | Primary Technologies | Version | Purpose |
+|---|---|:---:|---|
+| **Frontend Framework** | React | `^18.3.1` | Declarative component UI engine |
+| **Build Tool** | Vite | `^5.4.21` | Lightning-fast HMR and bundle compilation |
+| **CSS Architecture** | Tailwind CSS | `^3.4.11` | Utility-first responsive design system |
+| **Micro-Interactions** | Framer Motion | `^11.5.4` | Fluid UI transitions and page animations |
+| **Smooth Scroll** | Lenis | `^1.1.13` | Inertial smooth scrolling experience |
+| **Routing** | React Router DOM | `^6.26.2` | Client-side SPA routing with code-splitting |
+| **HTTP Client** | Axios | `^1.7.7` | Standardized API client with interceptors |
+| **Backend Runtime** | Node.js (ESM) | `>=20.0.0` | Native ECMAScript Modules server runtime |
+| **Web Server** | Express | `^4.21.0` | REST API routing and middleware pipeline |
+| **Database & ODM** | MongoDB Atlas & Mongoose | `^8.6.2` | Document database and strict schema validation |
+| **Authentication** | JSONWebToken & bcrypt | `^9.0.2` / `^6.0.0` | Salted password hashing and JWT issuance |
+| **Media Engine** | Multer & Cloudinary SDK | `1.4.5` / `^2.5.0` | In-memory buffering and CDN asset hosting |
+| **Payment Gateway** | Razorpay Node SDK | `^2.9.4` | Secure order creation and HMAC verification |
+| **Security Suite** | Helmet & Rate Limit | `^7.1.0` / `^7.4.0` | Security headers and multi-tier DDoS throttling |
 
-### Third-Party Cloud Services
-- **Database:** MongoDB Atlas (AWS Mumbai)
-- **Media Engine:** Cloudinary (v2 SDK ^2.5.0)
-- **Payments:** Razorpay Node SDK (^2.9.4)
-- **Authentication:** Google Identity Services (OAuth 2.0 / JWKS)
-- **Transactional Notifications:** EmailJS REST API
+</div>
 
 ---
 
-## 26. Project Structure
+<a name="26-project-structure"></a>
+## 26. 📂 Project Structure
 
 ```
 SabrStudio/
@@ -767,7 +857,8 @@ SabrStudio/
 
 ---
 
-## 27. Installation
+<a name="27-installation"></a>
+## 27. 🚀 Installation
 
 ### Prerequisites
 - **Node.js:** Version 20.0.0 or higher
@@ -793,39 +884,44 @@ cp frontend/.env.example frontend/.env
 
 ---
 
-## 28. Environment Variables
+<a name="28-environment-variables"></a>
+## 28. 🔑 Environment Variables
 
 All sensitive credentials remain strictly server-side. The frontend requires only a single configuration parameter.
 
 ### Backend Configuration (`backend/.env`)
+
+<div align="center">
 
 | Variable | Purpose | Required in Prod | Safe Example |
 |---|---|:---:|---|
 | `PORT` | Listening port for Express server | Yes (Host-injected) | `3000` |
 | `NODE_ENV` | Runtime environment flag | Yes | `production` |
 | `SERVE_FRONTEND` | Serves `frontend/dist` in monolithic hosting | Yes (Hostinger) | `true` |
-| `MONGODB_URI` | MongoDB Atlas connection string | Yes | `mongodb+srv://user:pass@cluster.mongodb.net/sabrstudio` |
+| `MONGODB_URI` | MongoDB Atlas connection string | Yes | `mongodb+srv://<db_username>:<db_password>@<cluster_host>/sabrstudio` |
 | `MONGODB_DB_NAME` | Explicit database name | Yes | `sabrstudio` |
-| `JWT_SECRET` | Signing secret for admin tokens (≥32 chars) | Yes | `a_very_long_secure_random_string` |
+| `JWT_SECRET` | Signing secret for admin tokens (≥32 chars) | Yes | `<your_32_character_jwt_secret_here>` |
 | `JWT_EXPIRES_IN` | Admin session lifetime | No | `7d` |
 | `CUSTOMER_JWT_EXPIRES_IN`| Customer session lifetime | No | `365d` |
 | `ADMIN_EMAIL` | Email for automated initial admin bootstrap | Yes | `admin@sabrstudio.in` |
-| `ADMIN_PASSWORD` | Password for automated initial bootstrap | Yes | `StrongUniquePassword123!` |
+| `ADMIN_PASSWORD` | Password for automated initial bootstrap | Yes | `<your_admin_strong_password>` |
 | `ADMIN_NAME` | Display name for bootstrap admin | No | `sabrstudio` |
 | `COOKIE_SECURE` | Enforces HTTPS-only cookies | Yes | `true` |
 | `COOKIE_SAME_SITE` | Cookie SameSite policy | No | `lax` |
 | `CORS_ORIGIN` | Allowed cross-origin domains | Yes | `https://sabrstudio.in,https://www.sabrstudio.in` |
 | `CLOUDINARY_CLOUD_NAME` | Cloudinary cloud account name | Yes | `sabr-cloud` |
-| `CLOUDINARY_API_KEY` | Cloudinary API key | Yes | `123456789012345` |
-| `CLOUDINARY_API_SECRET` | Cloudinary API secret | Yes | `abcdefghijklmnopqrstuvwxyz12` |
-| `RAZORPAY_KEY_ID` | Razorpay public key identifier | Yes | `rzp_live_xxxxxxxxxxxxxx` |
-| `RAZORPAY_KEY_SECRET` | Razorpay private API secret | Yes | `xxxxxxxxxxxxxxxxxxxxxxxx` |
-| `RAZORPAY_WEBHOOK_SECRET`| Secret used to sign incoming webhooks | No | `whsec_xxxxxxxxxxxxxxxxx` |
-| `GOOGLE_CLIENT_ID` | Google OAuth 2.0 Web Client ID | Yes | `xxxxx.apps.googleusercontent.com` |
+| `CLOUDINARY_API_KEY` | Cloudinary API key | Yes | `<your_cloudinary_api_key>` |
+| `CLOUDINARY_API_SECRET` | Cloudinary API secret | Yes | `<your_cloudinary_api_secret>` |
+| `RAZORPAY_KEY_ID` | Razorpay public key identifier | Yes | `<your_razorpay_key_id>` |
+| `RAZORPAY_KEY_SECRET` | Razorpay private API secret | Yes | `<your_razorpay_key_secret>` |
+| `RAZORPAY_WEBHOOK_SECRET`| Secret used to sign incoming webhooks | No | `<your_razorpay_webhook_secret>` |
+| `GOOGLE_CLIENT_ID` | Google OAuth 2.0 Web Client ID | Yes | `<your_google_client_id>.apps.googleusercontent.com` |
 | `EMAILJS_SERVICE_ID` | EmailJS service identifier | No | `service_xxxxxxx` |
 | `EMAILJS_TEMPLATE_ID` | EmailJS template identifier | No | `template_xxxxxx` |
 | `EMAILJS_PUBLIC_KEY` | EmailJS public API key | No | `user_xxxxxxxxxxxxxxxx` |
-| `EMAILJS_PRIVATE_KEY` | EmailJS private API key | No | `xxxxxxxxxxxxxxxxxxxxxx` |
+| `EMAILJS_PRIVATE_KEY` | EmailJS private API key | No | `<your_emailjs_private_key>` |
+
+</div>
 
 ### Frontend Configuration (`frontend/.env`)
 
@@ -835,7 +931,8 @@ All sensitive credentials remain strictly server-side. The frontend requires onl
 
 ---
 
-## 29. Available Scripts
+<a name="29-available-scripts"></a>
+## 29. 📜 Available Scripts
 
 The root `package.json` coordinates all monorepo development, testing, and build tasks:
 
@@ -864,7 +961,8 @@ npm run install:all
 
 ---
 
-## 30. Local Development
+<a name="30-local-development"></a>
+## 30. 💻 Local Development
 
 Running `npm run dev` launches the orchestrator (`scripts/dev.mjs`), which spawns both the backend API and frontend Vite server concurrently:
 1. **Backend:** Boots on `http://127.0.0.1:3000`. If `MONGODB_URI` is omitted, it safely starts using in-memory demo fixtures.
@@ -872,7 +970,8 @@ Running `npm run dev` launches the orchestrator (`scripts/dev.mjs`), which spawn
 
 ---
 
-## 31. Production Deployment
+<a name="31-production-deployment"></a>
+## 31. 🌐 Production Deployment
 
 Sabr Studio supports two battle-tested production deployment models:
 
@@ -886,7 +985,8 @@ Sabr Studio supports two battle-tested production deployment models:
 
 ---
 
-## 32. Performance Optimization
+<a name="32-performance-optimization"></a>
+## 32. ⚡ Performance Optimization
 
 1. **Route-Level Code Splitting:** Every page is lazy-loaded using `React.lazy()` and `Suspense`, keeping the initial entry chunk lightweight.
 2. **Font Preloading:** High-priority local WOFF2 font variants (`Abhaya Libre` and `Inter`) are preloaded via `index.html` link tags to eliminate typography flashes (FOUT).
@@ -896,7 +996,8 @@ Sabr Studio supports two battle-tested production deployment models:
 
 ---
 
-## 33. Challenges & Solutions
+<a name="33-challenges--solutions"></a>
+## 33. 🧩 Challenges & Solutions
 
 ### 1. Dynamic Detail Block Schema Stripping
 - **The Challenge:** Administrators designing complex project case studies needed custom layout tokens (alignment, widths, column placement). However, Mongoose runs in strict mode by default, causing custom block properties to be silently stripped on document save.
@@ -912,7 +1013,8 @@ Sabr Studio supports two battle-tested production deployment models:
 
 ---
 
-## 34. Freelance Project Experience
+<a name="34-freelance-project-experience"></a>
+## 34. 💼 Freelance Project Experience
 
 Building Sabr Studio as my first full-scale freelance client project provided invaluable professional software engineering experience:
 - **Translating High-Level Vision into Code:** Working with an architecture studio required deep attention to aesthetic precision, typography, whitespace, and micro-interactions.
@@ -921,7 +1023,8 @@ Building Sabr Studio as my first full-scale freelance client project provided in
 
 ---
 
-## 35. Future Improvements
+<a name="35-future-improvements"></a>
+## 35. 🔮 Future Improvements
 
 - **Redis-Backed Rate Limiting:** Migrate `express-rate-limit` from memory counters to a distributed Redis store (`rate-limit-redis`) for strict multi-instance serverless rate limiting.
 - **Automated Invoice Generation:** Integrate PDF invoice generation (via PDFKit) delivered automatically to customers upon payment confirmation.
@@ -930,14 +1033,21 @@ Building Sabr Studio as my first full-scale freelance client project provided in
 
 ---
 
-## 36. Author & Credits
+<a name="36-author--credits"></a>
+## 36. 👨‍💻 Author & Credits
 
-- **Architecture, Design & Development:** [Abu Fazal](https://github.com/Abu-Fazal)
-- **Studio Concept & Creative Direction:** Sabr Studio
-- **Reference Project Documentation:** [Jamia Academy](https://github.com/Abu-Fazal/Jamia-Academy)
+<div align="center">
+
+**Abu Fazal**  
+*Lead Full-Stack Software Engineer & System Architect*  
+[![GitHub](https://img.shields.io/badge/GitHub-Abu--Fazal-181717?style=flat-square&logo=github)](https://github.com/Abu-Fazal)
+[![Website](https://img.shields.io/badge/Portfolio-sabrstudio.in-059669?style=flat-square&logo=googlechrome)](https://sabrstudio.in/)
+
+</div>
 
 ---
 
-## 37. License
+<a name="37-license"></a>
+## 37. 📄 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
