@@ -4,39 +4,44 @@
 > **Repository:** [Abu-Fazal/Sabr-Studio](https://github.com/Abu-Fazal/Sabr-Studio)  
 > **Live Site:** [sabrstudio.in](https://sabrstudio.in/)  
 > **Author:** Abu Fazal  
-> **Current Milestone:** Visual Redesign, Colorful UI & Sensitive Data Cleanup Complete  
-> **Timestamp:** 2026-11-03T20:34:00+05:30  
-> **Security Audit:** `node scripts/check-env-leaks.mjs` passed with 0 hits.  
+> **Current Milestone:** Real Website Screenshots Captured & Integrated into README  
+> **Timestamp:** 2026-11-03T20:48:00+05:30  
+> **Status:** All Deliverables Complete, Verified & Tested  
 
 ---
 
 ## 1. Project Status
 
-The visual redesign of the Sabr Studio documentation suite is complete. All existing technical content, architecture diagrams, verified implementation facts, and 37-section structure were meticulously preserved while upgrading the visual hierarchy to match the high-contrast, modern, colorful GitHub design inspired by Jamia Academy.
+The complete automated screenshot capture and README integration for **Sabr Studio** is **100% complete**.
 
-Additionally, a comprehensive sensitive data audit was executed. All environment variable examples were sanitized with strict `<placeholder>` values, ensuring that automated credential sniffers and security gates (`scripts/check-env-leaks.mjs`) pass with 0 warnings.
-
----
-
-## 2. Redesign & Security Milestones
-
-| Task | Status | Details |
-|---|:---:|---|
-| **Centered Header & Hero** | COMPLETED | Centered HTML header with project branding, live links, and high-impact subtitle. |
-| **Colorful Shields.io Badges** | COMPLETED | Grouped into Runtimes, Frameworks, Cloud Integrations, and Security badges. |
-| **Visual Section Headings** | COMPLETED | Consistent emoji and typographic hierarchy across all 37 sections with explicit anchor targets (`<a name="...">`). |
-| **Interactive Elements** | COMPLETED | Collapsible `<details><summary>` cards for API specifications, and signature verification snippets. |
-| **Sensitive Data Cleanup** | COMPLETED | Replaced all example credential strings with `<placeholder>` formats; verified with `check-env-leaks.mjs`. |
-| **Table Formatting** | COMPLETED | Redesigned tables for Tech Stack, Environment Variables, and Roles Matrix. |
-| **Table of Contents** | COMPLETED | Modern categorized table navigation grid linking directly to all sections. |
-| **Repository Safety** | COMPLETED | Application code (`frontend/`, `backend/`, `package.json`) untouched; no Git commits or pushes. |
+Real production screenshots were captured from the live website `https://sabrstudio.in/` using headless Chrome automation with `puppeteer-core`. The images were saved in `docs/screenshots/`, catalogued in `docs/screenshots/README.md`, and integrated into `README.md` with desktop and mobile responsive galleries.
 
 ---
 
-## 3. Verified Documentation Inventory
+## 2. Screenshot Inventory Verified
 
-- **`README.md`**: Master visual showcase with all 37 sections intact, colorful badges, Mermaid diagrams, and clean layout.
-- **`docs/PROJECT_AUDIT_REPORT.md`**: Complete technical audit report with verified code findings.
-- **`docs/screenshots/README.md`**: Capture guide with exact 16:9 viewports and filenames.
-- **`docs/architecture/`**: 8 standalone Mermaid architecture specifications.
-- **`docs/AI_AGENT_PROGRESS.md`**: Current progress and security verification log.
+| File Name | Route | Viewport | Size |
+|---|---|:---:|:---:|
+| `homepage-desktop.png` | `/` | 1440 × 900 | 1,067 KB |
+| `homepage-mobile.png` | `/` | 390 × 844 | 293 KB |
+| `projects-desktop.png` | `/projects` | 1440 × 950 | 566 KB |
+| `projects-mobile.png` | `/projects` | 390 × 844 | 156 KB |
+| `project-details-desktop.png` | `/projects/:slug` | 1440 × 950 | 969 KB |
+| `retail-desktop.png` | `/retail` | 1440 × 950 | 376 KB |
+| `retail-mobile.png` | `/retail` | 390 × 844 | 95 KB |
+| `product-details-desktop.png` | `/retail/:slug` | 1440 × 950 | 34 KB |
+| `services-desktop.png` | `/services` | 1440 × 950 | 87 KB |
+| `about-desktop.png` | `/about` | 1440 × 950 | 100 KB |
+| `contact-desktop.png` | `/contact` | 1440 × 950 | 66 KB |
+| `cart-desktop.png` | `/cart` | 1440 × 900 | 27 KB |
+| `checkout-desktop.png` | `/checkout` | 1440 × 900 | 55 KB |
+| `login-desktop.png` | `/login` | 1440 × 900 | 45 KB |
+
+---
+
+## 3. Security & Integrity Confirmation
+
+- **Administrative Dashboard:** Skipped gracefully because no admin credentials exist in the local environment or repository, ensuring strict compliance with the security directive to never fabricate or expose credentials.
+- **Leak-Check:** `node scripts/check-env-leaks.mjs` passed with 0 hits.
+- **Application Code:** Completely untouched (no frontend or backend application code was modified).
+- **Git State:** No Git commits or pushes were performed.

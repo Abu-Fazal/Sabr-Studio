@@ -44,24 +44,48 @@
 
 ---
 
-## 🖼️ Screenshots & Interface Tour
+## 🖼️ Screenshots & Real Interface Tour
 
-The visual design of Sabr Studio is rooted in minimalism, tactile material palettes, editorial typography (`Abhaya Libre` and `Inter`), and deliberate whitespace. Capture specifications and viewport details can be reviewed in the [Screenshot Capture Guide](file:///d:/OneDrive/Desktop/SabrStudio/docs/screenshots/README.md).
+The visual design of Sabr Studio is rooted in minimalism, tactile material palettes, editorial typography (`Abhaya Libre` and `Inter`), and deliberate whitespace. All screenshots below are **genuine captures from the live production site at [https://sabrstudio.in/](https://sabrstudio.in/)**.
+
+### 🖥️ Desktop Experience (1440px Viewport)
 
 <div align="center">
 
-| 🏛️ Architectural Portfolio View | 🛋️ Bespoke Retail Atelier |
+| 🏛️ Architectural Landing Page | 📐 Curated Portfolio Showcase |
 |:---:|:---:|
-| <img src="docs/screenshots/02-public-projects-listing.png" alt="Public Project Portfolio" width="460"/><br/><sub><strong>Curated architectural portfolio with real-time category filtering</strong></sub> | <img src="docs/screenshots/04-retail-catalogue.png" alt="Retail Catalogue" width="460"/><br/><sub><strong>Furniture & objects catalogue with live stock and price validation</strong></sub> |
+| <img src="docs/screenshots/homepage-desktop.png" alt="Sabr Studio Homepage" width="480"/><br/><sub><strong>Editorial hero section featuring typography, brand mark, and category navigation</strong></sub> | <img src="docs/screenshots/projects-desktop.png" alt="Sabr Studio Projects" width="480"/><br/><sub><strong>Interactive portfolio showcase with real-time category filtering and case studies</strong></sub> |
 
-| 🎨 Dynamic Content Canvas (CMS) | 📦 Administrative Fulfillment Hub |
+| 📖 Deep-Dive Case Study View | 🛋️ Bespoke Furniture Catalogue |
 |:---:|:---:|
-| <img src="docs/screenshots/12-dynamic-detail-blocks-editor.png" alt="Dynamic Detail Blocks Editor" width="460"/><br/><sub><strong>Drag-and-drop 2D block editor with material color swatches</strong></sub> | <img src="docs/screenshots/14-admin-orders-manager.png" alt="Admin Orders Dashboard" width="460"/><br/><sub><strong>Fulfillment tracking, payment status badges, and courier logging</strong></sub> |
+| <img src="docs/screenshots/project-details-desktop.png" alt="Sabr Studio Project Detail" width="480"/><br/><sub><strong>Dynamic case study showcasing material swatches, spatial highlights, and photography</strong></sub> | <img src="docs/screenshots/retail-desktop.png" alt="Sabr Studio Retail Catalogue" width="480"/><br/><sub><strong>Atelier furniture & objects catalogue with live stock filtering and pricing in INR</strong></sub> |
+
+| 🏷️ Product Detail & Specifications | ✍️ Design Services & Capabilities |
+|:---:|:---:|
+| <img src="docs/screenshots/product-details-desktop.png" alt="Sabr Studio Product Detail" width="480"/><br/><sub><strong>Product detail display with dimensional specs, material composition, and add-to-cart</strong></sub> | <img src="docs/screenshots/services-desktop.png" alt="Sabr Studio Services" width="480"/><br/><sub><strong>Studio capabilities overview detailing architectural consulting and interior styling</strong></sub> |
+
+| 📖 Studio About & Philosophy | 📩 Consultation Enquiry Portal |
+|:---:|:---:|
+| <img src="docs/screenshots/about-desktop.png" alt="Sabr Studio About" width="480"/><br/><sub><strong>Studio history, architectural ethos, and founder statement</strong></sub> | <img src="docs/screenshots/contact-desktop.png" alt="Sabr Studio Contact" width="480"/><br/><sub><strong>Client consultation enquiry form with rate-limiting and automated email dispatch</strong></sub> |
+
+| 🛒 Persistent Shopping Cart | 💳 Multi-Step Checkout Flow |
+|:---:|:---:|
+| <img src="docs/screenshots/cart-desktop.png" alt="Sabr Studio Cart" width="480"/><br/><sub><strong>Dedicated cart view with localStorage state synchronization and item subtotal calculation</strong></sub> | <img src="docs/screenshots/checkout-desktop.png" alt="Sabr Studio Checkout" width="480"/><br/><sub><strong>Secure multi-step checkout interface with address selection and Razorpay integration</strong></sub> |
 
 </div>
 
-> [!TIP]
-> **Screenshot Directory:** High-resolution screenshots should be placed in `docs/screenshots/` matching the filenames defined in the [Screenshot Capture Guide](file:///d:/OneDrive/Desktop/SabrStudio/docs/screenshots/README.md).
+### 📱 Mobile Responsive Experience (390px Viewport)
+
+<div align="center">
+
+| 📱 Mobile Home | 📱 Portfolio Feed | 📱 Mobile Retail | 🔐 Shopper Sign-In |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/screenshots/homepage-mobile.png" alt="Sabr Studio Mobile Home" width="220"/><br/><sub><strong>Full-bleed hero imagery</strong></sub> | <img src="docs/screenshots/projects-mobile.png" alt="Sabr Studio Mobile Projects" width="220"/><br/><sub><strong>Mobile portfolio feed</strong></sub> | <img src="docs/screenshots/retail-mobile.png" alt="Sabr Studio Mobile Retail" width="220"/><br/><sub><strong>Touch-friendly retail grid</strong></sub> | <img src="docs/screenshots/login-desktop.png" alt="Customer Authentication" width="220"/><br/><sub><strong>Google 1-click login</strong></sub> |
+
+</div>
+
+> [!NOTE]
+> Detailed capture specifications and resolution parameters are documented in the [Screenshot Capture Guide](file:///d:/OneDrive/Desktop/SabrStudio/docs/screenshots/README.md). In accordance with production security policies, authenticated administrative screens are excluded as credentials are not stored in the repository.
 
 ---
 
